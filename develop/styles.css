@@ -1,0 +1,13 @@
+#header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 3vw;
+  height: 100%;
+  width: 100%;
+}
+
+.col-sm1 {
+  position: fixed;
+  right: 80%;
+}
